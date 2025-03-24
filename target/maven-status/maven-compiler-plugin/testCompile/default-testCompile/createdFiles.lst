@@ -1,0 +1,6 @@
+com\jotalml\utils\validator\impl\NumberValidatorTest.class
+com\jotalml\utils\validator\impl\ArrayInValidatorTest.class
+com\jotalml\utils\validator\impl\PageValidatorTest.class
+com\jotalml\utils\validator\impl\BooleanValidatorTest.class
+com\jotalml\utils\validator\impl\DateValidatorTest.class
+com\jotalml\utils\ExceptionshandlingApplicationTests.class

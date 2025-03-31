@@ -4,7 +4,7 @@ Implementación del **exceptionshandling** (manejador de excepciones). Dicho com
 # Como Empezar?
 
 ## 1. Proceso de Instalación local
-- instalar Java: el JDK para Java 11
+- instalar Java: el JDK a partir de Java 11
 - instalar Maven: a partir de la version 3.*
 - configurar las variables de entorno del S.O: Las variables a crear son JAVA_HOME y MAVEN_HOME, con el propósito de poder invocar los comandos de dichas tecnologías a travez de la terminal o consola.
 - crear el archivo **settings.xml**: este archivo es necesario para configurar la autenticación hacia el repositorio donde se va a subir la dependencia exceptionshandling. Dicho archivo debe crearse en el directorio home de Maven (habitualmente dicho directorio .m2 se encuentra en el directorio del usuario). El contenido de dicho archivo debe ser el siguiente: <br>
